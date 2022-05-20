@@ -1,4 +1,6 @@
-Sub hello()
+'v1.0 須要手動轉換編碼為uft-8格式。
+
+Sub ExcelToV_v1.0()
 
 ' 宣告區
 Dim OutputFilePath As String
