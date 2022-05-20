@@ -1,5 +1,5 @@
 # Excel-To-visio_brainstorming
-excel to visio brainstorming(mind map)
+excel VBA to visio brainstorming(mind map)
 
 ---
 使用方法：
