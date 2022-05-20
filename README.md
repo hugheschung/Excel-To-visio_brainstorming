@@ -2,6 +2,11 @@
 excel to visio brainstorming(mind map)
 
 ---
+使用方法：
+1. 新建一個excel
+2. A列
+
+---
 ## 作者的廢話
 hello!
 因為使用visio這套軟體的時候，發現不能透過excel將階層化的文字直接轉入 visio，我就寫了這個VBA code，
