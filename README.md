@@ -1,5 +1,9 @@
-# Excel-To-visio_brainstorming
+# Excel-To-visio_brainstorming_v1.0
+一個好用的 excel VBA 轉換 visio brainstorming(mind map)的程式碼
 excel VBA to visio brainstorming(mind map)
+
+目前問題：
+a1.原本有設計自動轉存uft-8格式，但是中文字會亂碼，有想幾個方案，但礙於程式碼可能有非big-5編碼的使用者使用，所以還是請大家手段轉換好了
 
 ---
 使用方法：
